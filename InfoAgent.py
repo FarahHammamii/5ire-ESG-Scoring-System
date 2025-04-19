@@ -2,7 +2,7 @@ import os
 import json
 
 
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "enter key here"
 
 from phi.agent import Agent
 from phi.tools.crawl4ai_tools import Crawl4aiTools
